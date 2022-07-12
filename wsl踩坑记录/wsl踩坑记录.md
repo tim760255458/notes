@@ -1,6 +1,7 @@
 # Windows + WSL 踩坑记录
 
 ## 使用代理（以 clash-for-window 为例）
+更新：这里说的没用，直接打开 clash 的 TUN 模式吧
 
 1. 打开 clash-for-window 的 Allow LAN 选项
 
